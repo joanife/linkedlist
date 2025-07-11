@@ -451,6 +451,6 @@ int main() {
 
 	while (keep_going == "Yes");
 
-	return 2
+	return 0;
 }
 
